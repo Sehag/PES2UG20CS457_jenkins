@@ -4,7 +4,7 @@ using namespace std;
 
 int main(void) {
   cout << "Hello, World\n";
-  cout << "Hello, Jenkins\n";
-  cout << "I have successfully built and run. Have a good day\n";
+  cout << "Continous integration using webhooks succeeded\n";
+  cout << "Have a good day\n";
   return 0;
 }
